@@ -1,0 +1,2 @@
+Frage1 {Antwort10; Antwort11; Antwort11 } 0
+Frage2 {Antwort10; Antwort11; Antwort11 } 0
